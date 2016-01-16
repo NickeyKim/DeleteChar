@@ -1,0 +1,5 @@
+/Users/nakhoekim/Desktop/DeleteChar/DeleteChar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nakhoekim/Desktop/DeleteChar/DeleteChar/bin/Debug/DeleteChar.exe.mdb
+/Users/nakhoekim/Desktop/DeleteChar/DeleteChar/bin/Debug/DeleteChar.exe
+/Users/nakhoekim/Desktop/DeleteChar/DeleteChar/obj/x86/Debug/DeleteChar.exe
+/Users/nakhoekim/Desktop/DeleteChar/DeleteChar/obj/x86/Debug/DeleteChar.exe.mdb
