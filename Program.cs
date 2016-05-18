@@ -38,7 +38,7 @@ namespace DeleteChar
 
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("hello world");
+			Console.WriteLine ("Removing vowels : Battle of the Vowels: Hawaii vs. Grozny");
 			string a = "Battle of the Vowels: Hawaii vs. Grozny";
 			string b = "aeiou";
 			//removeChars(a, b);
